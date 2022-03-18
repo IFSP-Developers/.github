@@ -11,3 +11,4 @@
 -   [Edilene Shizue](https://github.com/ShizueOnizuka) 
 -   [Guilherme Vitorino](https://github.com/vitorinoguilherme) 
 -   [Jesiel Gomes](https://github.com/JesielGomes) 
+-   [Luis Sousa](http://github.com/IncognitaDev)
