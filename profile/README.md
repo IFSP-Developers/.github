@@ -12,3 +12,6 @@
 -   [Guilherme Vitorino](https://github.com/vitorinoguilherme) 
 -   [Jesiel Gomes](https://github.com/JesielGomes) 
 -   [Luis Sousa](http://github.com/IncognitaDev)
+-   [Thiago](https://github.com/pocpocpo)
+-   [Elker Rodrigues](https://github.com/elkerrodrigues)
+-   [Marcos Reis](https://github.com/MReis77)
